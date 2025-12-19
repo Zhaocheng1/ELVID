@@ -10,6 +10,7 @@ Uncertainty-Guided Spatiotemporal Consistency Fusion Network for Infrared-Visibl
 | 💻 Code | Coming Soon | See Code and Model Release Status ↓ |
 
 ## 📊 Dataset Release Status
+![Dataset Release](https://img.shields.io/badge/Dataset%20Release-Upon%20Acceptance-orange)
 
 We are committed to open and reproducible research.
 
@@ -20,8 +21,6 @@ We guarantee that the complete dataset will be made publicly available immediate
 
 ## 🔑 Code and Model Release Status
 We are committed to full reproducibility and open science.
-
-**Code Release: _Upon Acceptance_**
 
 The source code, trained models, and detailed setup instructions are currently withheld to preserve the integrity of the academic peer-review process.
 
