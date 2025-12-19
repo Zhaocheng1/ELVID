@@ -20,6 +20,8 @@ We guarantee that the complete dataset will be made publicly available immediate
 
 
 ## 🔑 Code and Model Release Status
+![Code Release](https://img.shields.io/badge/Code%20Release-Upon%20Acceptance-orange)
+
 We are committed to full reproducibility and open science.
 
 The source code, trained models, and detailed setup instructions are currently withheld to preserve the integrity of the academic peer-review process.
