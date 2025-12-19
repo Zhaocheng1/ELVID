@@ -27,3 +27,15 @@ We are committed to full reproducibility and open science.
 The source code, trained models, and detailed setup instructions are currently withheld to preserve the integrity of the academic peer-review process.
 
 We guarantee that the complete repository contents (including training scripts and pretrained checkpoints) will be made publicly available immediately upon manuscript acceptance.
+
+## 📑 Citation
+
+If you find our work useful for your research, please consider citing our paper:
+
+```bibtex
+@article{Zhao2025SCFNet,
+  title   = {Uncertainty-Guided Spatiotemporal Consistency Fusion Network for Infrared--Visible Video Fusion under Extremely Low-Light Conditions},
+  author  = {Zhao, Cheng and Song, Tianyun and Wu, Zhiliang and Wang, Tianfu and Gabbouj, Moncef and Yue, Guanghui and Lei, Baiying and Zhou, Wei},
+  journal = {Under Review},
+  year    = {2025}
+}
