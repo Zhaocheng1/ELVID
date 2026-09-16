@@ -1,0 +1,2797 @@
+{
+  "02_008_02_008_segment_00145-00160.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_008/02_008_segment_00145-00160.npy",
+    "folder": "02_008",
+    "label": 0
+  },
+  "02_008_02_008_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_008/02_008_segment_00369-00384.npy",
+    "folder": "02_008",
+    "label": 0
+  },
+  "02_008_02_008_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_008/02_008_segment_00001-00016.npy",
+    "folder": "02_008",
+    "label": 0
+  },
+  "02_008_02_008_segment_00513-00528.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_008/02_008_segment_00513-00528.npy",
+    "folder": "02_008",
+    "label": 0
+  },
+  "04_037_04_037_segment_00033-00048.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_037/04_037_segment_00033-00048.npy",
+    "folder": "04_037",
+    "label": 0
+  },
+  "04_060_04_060_segment_00049-00064.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_060/04_060_segment_00049-00064.npy",
+    "folder": "04_060",
+    "label": 0
+  },
+  "05_022_05_022_segment_00033-00048.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_022/05_022_segment_00033-00048.npy",
+    "folder": "05_022",
+    "label": 0
+  },
+  "04_022_04_022_segment_00241-00256.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_022/04_022_segment_00241-00256.npy",
+    "folder": "04_022",
+    "label": 0
+  },
+  "04_022_04_022_segment_00113-00128.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_022/04_022_segment_00113-00128.npy",
+    "folder": "04_022",
+    "label": 0
+  },
+  "04_022_04_022_segment_00481-00496.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_022/04_022_segment_00481-00496.npy",
+    "folder": "04_022",
+    "label": 0
+  },
+  "04_022_04_022_segment_00609-00624.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_022/04_022_segment_00609-00624.npy",
+    "folder": "04_022",
+    "label": 0
+  },
+  "04_022_04_022_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_022/04_022_segment_00001-00016.npy",
+    "folder": "04_022",
+    "label": 0
+  },
+  "04_022_04_022_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_022/04_022_segment_00369-00384.npy",
+    "folder": "04_022",
+    "label": 0
+  },
+  "04_046_04_046_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_046/04_046_segment_00369-00384.npy",
+    "folder": "04_046",
+    "label": 0
+  },
+  "04_046_04_046_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_046/04_046_segment_01105-01120.npy",
+    "folder": "04_046",
+    "label": 0
+  },
+  "04_046_04_046_segment_00177-00192.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_046/04_046_segment_00177-00192.npy",
+    "folder": "04_046",
+    "label": 0
+  },
+  "04_046_04_046_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_046/04_046_segment_00001-00016.npy",
+    "folder": "04_046",
+    "label": 0
+  },
+  "04_046_04_046_segment_01281-01296.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_046/04_046_segment_01281-01296.npy",
+    "folder": "04_046",
+    "label": 0
+  },
+  "04_046_04_046_segment_01473-01488.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_046/04_046_segment_01473-01488.npy",
+    "folder": "04_046",
+    "label": 0
+  },
+  "04_046_04_046_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_046/04_046_segment_00737-00752.npy",
+    "folder": "04_046",
+    "label": 0
+  },
+  "04_046_04_046_segment_00545-00560.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_046/04_046_segment_00545-00560.npy",
+    "folder": "04_046",
+    "label": 0
+  },
+  "04_046_04_046_segment_00913-00928.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_046/04_046_segment_00913-00928.npy",
+    "folder": "04_046",
+    "label": 0
+  },
+  "04_072_04_072_segment_00241-00256.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_072/04_072_segment_00241-00256.npy",
+    "folder": "04_072",
+    "label": 0
+  },
+  "04_072_04_072_segment_00081-00096.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_072/04_072_segment_00081-00096.npy",
+    "folder": "04_072",
+    "label": 0
+  },
+  "01_015_01_015_segment_00465-00480.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_015/01_015_segment_00465-00480.npy",
+    "folder": "01_015",
+    "label": 0
+  },
+  "01_015_01_015_segment_00225-00240.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_015/01_015_segment_00225-00240.npy",
+    "folder": "01_015",
+    "label": 0
+  },
+  "01_015_01_015_segment_00545-00560.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_015/01_015_segment_00545-00560.npy",
+    "folder": "01_015",
+    "label": 0
+  },
+  "01_015_01_015_segment_00625-00640.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_015/01_015_segment_00625-00640.npy",
+    "folder": "01_015",
+    "label": 0
+  },
+  "01_015_01_015_segment_00065-00080.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_015/01_015_segment_00065-00080.npy",
+    "folder": "01_015",
+    "label": 0
+  },
+  "01_015_01_015_segment_00145-00160.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_015/01_015_segment_00145-00160.npy",
+    "folder": "01_015",
+    "label": 0
+  },
+  "01_015_01_015_segment_00705-00720.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_015/01_015_segment_00705-00720.npy",
+    "folder": "01_015",
+    "label": 0
+  },
+  "01_015_01_015_segment_00305-00320.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_015/01_015_segment_00305-00320.npy",
+    "folder": "01_015",
+    "label": 0
+  },
+  "01_015_01_015_segment_00385-00400.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_015/01_015_segment_00385-00400.npy",
+    "folder": "01_015",
+    "label": 0
+  },
+  "04_045_04_045_segment_01473-01488.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_045/04_045_segment_01473-01488.npy",
+    "folder": "04_045",
+    "label": 0
+  },
+  "04_045_04_045_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_045/04_045_segment_01105-01120.npy",
+    "folder": "04_045",
+    "label": 0
+  },
+  "04_045_04_045_segment_00545-00560.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_045/04_045_segment_00545-00560.npy",
+    "folder": "04_045",
+    "label": 0
+  },
+  "04_045_04_045_segment_00177-00192.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_045/04_045_segment_00177-00192.npy",
+    "folder": "04_045",
+    "label": 0
+  },
+  "04_045_04_045_segment_00913-00928.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_045/04_045_segment_00913-00928.npy",
+    "folder": "04_045",
+    "label": 0
+  },
+  "04_045_04_045_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_045/04_045_segment_00737-00752.npy",
+    "folder": "04_045",
+    "label": 0
+  },
+  "04_045_04_045_segment_02017-02032.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_045/04_045_segment_02017-02032.npy",
+    "folder": "04_045",
+    "label": 0
+  },
+  "04_045_04_045_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_045/04_045_segment_00369-00384.npy",
+    "folder": "04_045",
+    "label": 0
+  },
+  "04_045_04_045_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_045/04_045_segment_00001-00016.npy",
+    "folder": "04_045",
+    "label": 0
+  },
+  "04_045_04_045_segment_01841-01856.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_045/04_045_segment_01841-01856.npy",
+    "folder": "04_045",
+    "label": 0
+  },
+  "04_045_04_045_segment_01281-01296.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_045/04_045_segment_01281-01296.npy",
+    "folder": "04_045",
+    "label": 0
+  },
+  "04_045_04_045_segment_01649-01664.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_045/04_045_segment_01649-01664.npy",
+    "folder": "04_045",
+    "label": 0
+  },
+  "02_011_02_011_segment_01473-01488.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_011/02_011_segment_01473-01488.npy",
+    "folder": "02_011",
+    "label": 0
+  },
+  "02_011_02_011_segment_00225-00240.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_011/02_011_segment_00225-00240.npy",
+    "folder": "02_011",
+    "label": 0
+  },
+  "02_011_02_011_segment_01329-01344.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_011/02_011_segment_01329-01344.npy",
+    "folder": "02_011",
+    "label": 0
+  },
+  "02_011_02_011_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_011/02_011_segment_00737-00752.npy",
+    "folder": "02_011",
+    "label": 0
+  },
+  "02_011_02_011_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_011/02_011_segment_00001-00016.npy",
+    "folder": "02_011",
+    "label": 0
+  },
+  "02_011_02_011_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_011/02_011_segment_00369-00384.npy",
+    "folder": "02_011",
+    "label": 0
+  },
+  "02_011_02_011_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_011/02_011_segment_01105-01120.npy",
+    "folder": "02_011",
+    "label": 0
+  },
+  "02_011_02_011_segment_00961-00976.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_011/02_011_segment_00961-00976.npy",
+    "folder": "02_011",
+    "label": 0
+  },
+  "02_011_02_011_segment_00593-00608.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_011/02_011_segment_00593-00608.npy",
+    "folder": "02_011",
+    "label": 0
+  },
+  "04_003_04_003_segment_00321-00336.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_003/04_003_segment_00321-00336.npy",
+    "folder": "04_003",
+    "label": 0
+  },
+  "04_003_04_003_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_003/04_003_segment_00001-00016.npy",
+    "folder": "04_003",
+    "label": 0
+  },
+  "04_003_04_003_segment_00113-00128.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_003/04_003_segment_00113-00128.npy",
+    "folder": "04_003",
+    "label": 0
+  },
+  "04_003_04_003_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_003/04_003_segment_00369-00384.npy",
+    "folder": "04_003",
+    "label": 0
+  },
+  "04_003_04_003_segment_00481-00496.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_003/04_003_segment_00481-00496.npy",
+    "folder": "04_003",
+    "label": 0
+  },
+  "04_070_04_070_segment_00449-00464.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_070/04_070_segment_00449-00464.npy",
+    "folder": "04_070",
+    "label": 0
+  },
+  "04_070_04_070_segment_00609-00624.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_070/04_070_segment_00609-00624.npy",
+    "folder": "04_070",
+    "label": 0
+  },
+  "04_070_04_070_segment_00081-00096.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_070/04_070_segment_00081-00096.npy",
+    "folder": "04_070",
+    "label": 0
+  },
+  "04_070_04_070_segment_00241-00256.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_070/04_070_segment_00241-00256.npy",
+    "folder": "04_070",
+    "label": 0
+  },
+  "04_011_04_011_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_011/04_011_segment_00369-00384.npy",
+    "folder": "04_011",
+    "label": 0
+  },
+  "04_011_04_011_segment_00273-00288.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_011/04_011_segment_00273-00288.npy",
+    "folder": "04_011",
+    "label": 0
+  },
+  "04_011_04_011_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_011/04_011_segment_00001-00016.npy",
+    "folder": "04_011",
+    "label": 0
+  },
+  "04_011_04_011_segment_00145-00160.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_011/04_011_segment_00145-00160.npy",
+    "folder": "04_011",
+    "label": 0
+  },
+  "04_011_04_011_segment_00513-00528.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_011/04_011_segment_00513-00528.npy",
+    "folder": "04_011",
+    "label": 0
+  },
+  "05_009_05_009_segment_00145-00160.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_009/05_009_segment_00145-00160.npy",
+    "folder": "05_009",
+    "label": 0
+  },
+  "05_009_05_009_segment_00417-00432.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_009/05_009_segment_00417-00432.npy",
+    "folder": "05_009",
+    "label": 0
+  },
+  "02_001_02_001_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_001/02_001_segment_00369-00384.npy",
+    "folder": "02_001",
+    "label": 0
+  },
+  "02_001_02_001_segment_00513-00528.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_001/02_001_segment_00513-00528.npy",
+    "folder": "02_001",
+    "label": 0
+  },
+  "02_001_02_001_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_001/02_001_segment_01105-01120.npy",
+    "folder": "02_001",
+    "label": 0
+  },
+  "02_001_02_001_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_001/02_001_segment_00001-00016.npy",
+    "folder": "02_001",
+    "label": 0
+  },
+  "02_001_02_001_segment_00881-00896.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_001/02_001_segment_00881-00896.npy",
+    "folder": "02_001",
+    "label": 0
+  },
+  "02_001_02_001_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_001/02_001_segment_00737-00752.npy",
+    "folder": "02_001",
+    "label": 0
+  },
+  "02_001_02_001_segment_01249-01264.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_001/02_001_segment_01249-01264.npy",
+    "folder": "02_001",
+    "label": 0
+  },
+  "02_001_02_001_segment_00145-00160.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_001/02_001_segment_00145-00160.npy",
+    "folder": "02_001",
+    "label": 0
+  },
+  "02_016_02_016_segment_01473-01488.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_016/02_016_segment_01473-01488.npy",
+    "folder": "02_016",
+    "label": 0
+  },
+  "02_016_02_016_segment_00641-00656.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_016/02_016_segment_00641-00656.npy",
+    "folder": "02_016",
+    "label": 0
+  },
+  "02_016_02_016_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_016/02_016_segment_01105-01120.npy",
+    "folder": "02_016",
+    "label": 0
+  },
+  "02_016_02_016_segment_01745-01760.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_016/02_016_segment_01745-01760.npy",
+    "folder": "02_016",
+    "label": 0
+  },
+  "02_016_02_016_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_016/02_016_segment_00001-00016.npy",
+    "folder": "02_016",
+    "label": 0
+  },
+  "02_016_02_016_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_016/02_016_segment_00737-00752.npy",
+    "folder": "02_016",
+    "label": 0
+  },
+  "02_016_02_016_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_016/02_016_segment_00369-00384.npy",
+    "folder": "02_016",
+    "label": 0
+  },
+  "02_016_02_016_segment_00273-00288.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_016/02_016_segment_00273-00288.npy",
+    "folder": "02_016",
+    "label": 0
+  },
+  "02_016_02_016_segment_01377-01392.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_016/02_016_segment_01377-01392.npy",
+    "folder": "02_016",
+    "label": 0
+  },
+  "02_016_02_016_segment_01009-01024.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_016/02_016_segment_01009-01024.npy",
+    "folder": "02_016",
+    "label": 0
+  },
+  "04_024_04_024_segment_01233-01248.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_024/04_024_segment_01233-01248.npy",
+    "folder": "04_024",
+    "label": 0
+  },
+  "04_024_04_024_segment_01729-01744.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_024/04_024_segment_01729-01744.npy",
+    "folder": "04_024",
+    "label": 0
+  },
+  "04_024_04_024_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_024/04_024_segment_01105-01120.npy",
+    "folder": "04_024",
+    "label": 0
+  },
+  "04_024_04_024_segment_00865-00880.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_024/04_024_segment_00865-00880.npy",
+    "folder": "04_024",
+    "label": 0
+  },
+  "04_024_04_024_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_024/04_024_segment_00369-00384.npy",
+    "folder": "04_024",
+    "label": 0
+  },
+  "04_024_04_024_segment_00129-00144.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_024/04_024_segment_00129-00144.npy",
+    "folder": "04_024",
+    "label": 0
+  },
+  "04_024_04_024_segment_00497-00512.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_024/04_024_segment_00497-00512.npy",
+    "folder": "04_024",
+    "label": 0
+  },
+  "04_024_04_024_segment_01361-01376.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_024/04_024_segment_01361-01376.npy",
+    "folder": "04_024",
+    "label": 0
+  },
+  "04_024_04_024_segment_00257-00272.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_024/04_024_segment_00257-00272.npy",
+    "folder": "04_024",
+    "label": 0
+  },
+  "04_024_04_024_segment_01601-01616.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_024/04_024_segment_01601-01616.npy",
+    "folder": "04_024",
+    "label": 0
+  },
+  "04_024_04_024_segment_01473-01488.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_024/04_024_segment_01473-01488.npy",
+    "folder": "04_024",
+    "label": 0
+  },
+  "04_024_04_024_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_024/04_024_segment_00001-00016.npy",
+    "folder": "04_024",
+    "label": 0
+  },
+  "04_024_04_024_segment_00993-01008.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_024/04_024_segment_00993-01008.npy",
+    "folder": "04_024",
+    "label": 0
+  },
+  "04_024_04_024_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_024/04_024_segment_00737-00752.npy",
+    "folder": "04_024",
+    "label": 0
+  },
+  "04_024_04_024_segment_00625-00640.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_024/04_024_segment_00625-00640.npy",
+    "folder": "04_024",
+    "label": 0
+  },
+  "02_024_02_024_segment_00545-00560.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_024/02_024_segment_00545-00560.npy",
+    "folder": "02_024",
+    "label": 0
+  },
+  "02_024_02_024_segment_01473-01488.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_024/02_024_segment_01473-01488.npy",
+    "folder": "02_024",
+    "label": 0
+  },
+  "02_024_02_024_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_024/02_024_segment_00001-00016.npy",
+    "folder": "02_024",
+    "label": 0
+  },
+  "02_024_02_024_segment_01649-01664.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_024/02_024_segment_01649-01664.npy",
+    "folder": "02_024",
+    "label": 0
+  },
+  "02_024_02_024_segment_00177-00192.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_024/02_024_segment_00177-00192.npy",
+    "folder": "02_024",
+    "label": 0
+  },
+  "02_024_02_024_segment_01841-01856.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_024/02_024_segment_01841-01856.npy",
+    "folder": "02_024",
+    "label": 0
+  },
+  "02_024_02_024_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_024/02_024_segment_00369-00384.npy",
+    "folder": "02_024",
+    "label": 0
+  },
+  "02_024_02_024_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_024/02_024_segment_01105-01120.npy",
+    "folder": "02_024",
+    "label": 0
+  },
+  "02_024_02_024_segment_00913-00928.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_024/02_024_segment_00913-00928.npy",
+    "folder": "02_024",
+    "label": 0
+  },
+  "02_024_02_024_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_024/02_024_segment_00737-00752.npy",
+    "folder": "02_024",
+    "label": 0
+  },
+  "02_024_02_024_segment_01281-01296.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_024/02_024_segment_01281-01296.npy",
+    "folder": "02_024",
+    "label": 0
+  },
+  "05_007_05_007_segment_00577-00592.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_007/05_007_segment_00577-00592.npy",
+    "folder": "05_007",
+    "label": 0
+  },
+  "05_007_05_007_segment_00081-00096.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_007/05_007_segment_00081-00096.npy",
+    "folder": "05_007",
+    "label": 0
+  },
+  "05_007_05_007_segment_00209-00224.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_007/05_007_segment_00209-00224.npy",
+    "folder": "05_007",
+    "label": 0
+  },
+  "05_007_05_007_segment_00817-00832.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_007/05_007_segment_00817-00832.npy",
+    "folder": "05_007",
+    "label": 0
+  },
+  "05_007_05_007_segment_00945-00960.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_007/05_007_segment_00945-00960.npy",
+    "folder": "05_007",
+    "label": 0
+  },
+  "05_007_05_007_segment_00449-00464.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_007/05_007_segment_00449-00464.npy",
+    "folder": "05_007",
+    "label": 0
+  },
+  "04_055_04_055_segment_00193-00208.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_055/04_055_segment_00193-00208.npy",
+    "folder": "04_055",
+    "label": 0
+  },
+  "04_055_04_055_segment_00289-00304.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_055/04_055_segment_00289-00304.npy",
+    "folder": "04_055",
+    "label": 0
+  },
+  "04_055_04_055_segment_00065-00080.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_055/04_055_segment_00065-00080.npy",
+    "folder": "04_055",
+    "label": 0
+  },
+  "01_026_01_026_segment_00625-00640.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_026/01_026_segment_00625-00640.npy",
+    "folder": "01_026",
+    "label": 0
+  },
+  "01_026_01_026_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_026/01_026_segment_01105-01120.npy",
+    "folder": "01_026",
+    "label": 0
+  },
+  "01_026_01_026_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_026/01_026_segment_00737-00752.npy",
+    "folder": "01_026",
+    "label": 0
+  },
+  "01_026_01_026_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_026/01_026_segment_00369-00384.npy",
+    "folder": "01_026",
+    "label": 0
+  },
+  "01_026_01_026_segment_01361-01376.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_026/01_026_segment_01361-01376.npy",
+    "folder": "01_026",
+    "label": 0
+  },
+  "01_026_01_026_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_026/01_026_segment_00001-00016.npy",
+    "folder": "01_026",
+    "label": 0
+  },
+  "01_026_01_026_segment_00257-00272.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_026/01_026_segment_00257-00272.npy",
+    "folder": "01_026",
+    "label": 0
+  },
+  "01_026_01_026_segment_00993-01008.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_026/01_026_segment_00993-01008.npy",
+    "folder": "01_026",
+    "label": 0
+  },
+  "02_017_02_017_segment_02513-02528.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_02513-02528.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_01473-01488.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_01473-01488.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_01409-01424.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_01409-01424.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_01041-01056.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_01041-01056.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_00305-00320.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_00305-00320.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_00161-00176.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_00161-00176.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_02209-02224.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_02209-02224.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_01633-01648.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_01633-01648.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_01841-01856.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_01841-01856.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_00369-00384.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_00897-00912.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_00897-00912.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_02577-02592.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_02577-02592.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_02369-02384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_02369-02384.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_00737-00752.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_01105-01120.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_01265-01280.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_01265-01280.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_01777-01792.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_01777-01792.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_00001-00016.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_00673-00688.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_00673-00688.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_02145-02160.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_02145-02160.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_00529-00544.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_00529-00544.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "02_017_02_017_segment_02001-02016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_017/02_017_segment_02001-02016.npy",
+    "folder": "02_017",
+    "label": 0
+  },
+  "04_004_04_004_segment_00833-00848.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_004/04_004_segment_00833-00848.npy",
+    "folder": "04_004",
+    "label": 0
+  },
+  "04_004_04_004_segment_00321-00336.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_004/04_004_segment_00321-00336.npy",
+    "folder": "04_004",
+    "label": 0
+  },
+  "04_004_04_004_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_004/04_004_segment_00369-00384.npy",
+    "folder": "04_004",
+    "label": 0
+  },
+  "04_004_04_004_segment_00097-00112.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_004/04_004_segment_00097-00112.npy",
+    "folder": "04_004",
+    "label": 0
+  },
+  "04_004_04_004_segment_00465-00480.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_004/04_004_segment_00465-00480.npy",
+    "folder": "04_004",
+    "label": 0
+  },
+  "04_004_04_004_segment_00593-00608.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_004/04_004_segment_00593-00608.npy",
+    "folder": "04_004",
+    "label": 0
+  },
+  "04_004_04_004_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_004/04_004_segment_00737-00752.npy",
+    "folder": "04_004",
+    "label": 0
+  },
+  "04_004_04_004_segment_00225-00240.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_004/04_004_segment_00225-00240.npy",
+    "folder": "04_004",
+    "label": 0
+  },
+  "04_004_04_004_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_004/04_004_segment_00001-00016.npy",
+    "folder": "04_004",
+    "label": 0
+  },
+  "04_004_04_004_segment_00689-00704.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_004/04_004_segment_00689-00704.npy",
+    "folder": "04_004",
+    "label": 0
+  },
+  "04_019_04_019_segment_00033-00048.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_019/04_019_segment_00033-00048.npy",
+    "folder": "04_019",
+    "label": 0
+  },
+  "04_036_04_036_segment_00497-00512.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_036/04_036_segment_00497-00512.npy",
+    "folder": "04_036",
+    "label": 0
+  },
+  "04_036_04_036_segment_00977-00992.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_036/04_036_segment_00977-00992.npy",
+    "folder": "04_036",
+    "label": 0
+  },
+  "04_036_04_036_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_036/04_036_segment_00737-00752.npy",
+    "folder": "04_036",
+    "label": 0
+  },
+  "04_036_04_036_segment_00241-00256.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_036/04_036_segment_00241-00256.npy",
+    "folder": "04_036",
+    "label": 0
+  },
+  "04_036_04_036_segment_00609-00624.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_036/04_036_segment_00609-00624.npy",
+    "folder": "04_036",
+    "label": 0
+  },
+  "04_036_04_036_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_036/04_036_segment_00369-00384.npy",
+    "folder": "04_036",
+    "label": 0
+  },
+  "04_036_04_036_segment_00129-00144.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_036/04_036_segment_00129-00144.npy",
+    "folder": "04_036",
+    "label": 0
+  },
+  "04_036_04_036_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_036/04_036_segment_00001-00016.npy",
+    "folder": "04_036",
+    "label": 0
+  },
+  "04_036_04_036_segment_00865-00880.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_036/04_036_segment_00865-00880.npy",
+    "folder": "04_036",
+    "label": 0
+  },
+  "04_041_04_041_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_041/04_041_segment_00001-00016.npy",
+    "folder": "04_041",
+    "label": 0
+  },
+  "04_041_04_041_segment_00161-00176.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_041/04_041_segment_00161-00176.npy",
+    "folder": "04_041",
+    "label": 0
+  },
+  "04_041_04_041_segment_00897-00912.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_041/04_041_segment_00897-00912.npy",
+    "folder": "04_041",
+    "label": 0
+  },
+  "04_041_04_041_segment_00529-00544.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_041/04_041_segment_00529-00544.npy",
+    "folder": "04_041",
+    "label": 0
+  },
+  "04_041_04_041_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_041/04_041_segment_00737-00752.npy",
+    "folder": "04_041",
+    "label": 0
+  },
+  "04_041_04_041_segment_00273-00288.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_041/04_041_segment_00273-00288.npy",
+    "folder": "04_041",
+    "label": 0
+  },
+  "04_041_04_041_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_041/04_041_segment_00369-00384.npy",
+    "folder": "04_041",
+    "label": 0
+  },
+  "04_041_04_041_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_041/04_041_segment_01105-01120.npy",
+    "folder": "04_041",
+    "label": 0
+  },
+  "04_041_04_041_segment_01009-01024.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_041/04_041_segment_01009-01024.npy",
+    "folder": "04_041",
+    "label": 0
+  },
+  "04_041_04_041_segment_00641-00656.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_041/04_041_segment_00641-00656.npy",
+    "folder": "04_041",
+    "label": 0
+  },
+  "04_039_04_039_segment_01011-01026.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_039/04_039_segment_01011-01026.npy",
+    "folder": "04_039",
+    "label": 0
+  },
+  "04_039_04_039_segment_00899-00914.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_039/04_039_segment_00899-00914.npy",
+    "folder": "04_039",
+    "label": 0
+  },
+  "04_039_04_039_segment_00643-00658.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_039/04_039_segment_00643-00658.npy",
+    "folder": "04_039",
+    "label": 0
+  },
+  "04_039_04_039_segment_00003-00018.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_039/04_039_segment_00003-00018.npy",
+    "folder": "04_039",
+    "label": 0
+  },
+  "04_039_04_039_segment_00531-00546.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_039/04_039_segment_00531-00546.npy",
+    "folder": "04_039",
+    "label": 0
+  },
+  "04_039_04_039_segment_00275-00290.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_039/04_039_segment_00275-00290.npy",
+    "folder": "04_039",
+    "label": 0
+  },
+  "04_039_04_039_segment_00163-00178.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_039/04_039_segment_00163-00178.npy",
+    "folder": "04_039",
+    "label": 0
+  },
+  "04_039_04_039_segment_00739-00754.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_039/04_039_segment_00739-00754.npy",
+    "folder": "04_039",
+    "label": 0
+  },
+  "04_039_04_039_segment_01107-01122.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_039/04_039_segment_01107-01122.npy",
+    "folder": "04_039",
+    "label": 0
+  },
+  "04_039_04_039_segment_00371-00386.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_039/04_039_segment_00371-00386.npy",
+    "folder": "04_039",
+    "label": 0
+  },
+  "01_001_01_001_segment_00065-00080.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_001/01_001_segment_00065-00080.npy",
+    "folder": "01_001",
+    "label": 0
+  },
+  "01_001_01_001_segment_00865-00880.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_001/01_001_segment_00865-00880.npy",
+    "folder": "01_001",
+    "label": 0
+  },
+  "01_001_01_001_segment_00945-00960.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_001/01_001_segment_00945-00960.npy",
+    "folder": "01_001",
+    "label": 0
+  },
+  "01_001_01_001_segment_00625-00640.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_001/01_001_segment_00625-00640.npy",
+    "folder": "01_001",
+    "label": 0
+  },
+  "01_001_01_001_segment_00385-00400.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_001/01_001_segment_00385-00400.npy",
+    "folder": "01_001",
+    "label": 0
+  },
+  "01_001_01_001_segment_01025-01040.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_001/01_001_segment_01025-01040.npy",
+    "folder": "01_001",
+    "label": 0
+  },
+  "01_001_01_001_segment_00145-00160.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_001/01_001_segment_00145-00160.npy",
+    "folder": "01_001",
+    "label": 0
+  },
+  "01_001_01_001_segment_00465-00480.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_001/01_001_segment_00465-00480.npy",
+    "folder": "01_001",
+    "label": 0
+  },
+  "01_001_01_001_segment_00225-00240.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_001/01_001_segment_00225-00240.npy",
+    "folder": "01_001",
+    "label": 0
+  },
+  "01_001_01_001_segment_00305-00320.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_001/01_001_segment_00305-00320.npy",
+    "folder": "01_001",
+    "label": 0
+  },
+  "01_001_01_001_segment_00785-00800.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_001/01_001_segment_00785-00800.npy",
+    "folder": "01_001",
+    "label": 0
+  },
+  "01_001_01_001_segment_00705-00720.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_001/01_001_segment_00705-00720.npy",
+    "folder": "01_001",
+    "label": 0
+  },
+  "01_001_01_001_segment_00545-00560.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_001/01_001_segment_00545-00560.npy",
+    "folder": "01_001",
+    "label": 0
+  },
+  "04_031_04_031_segment_01233-01248.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_031/04_031_segment_01233-01248.npy",
+    "folder": "04_031",
+    "label": 0
+  },
+  "04_031_04_031_segment_00497-00512.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_031/04_031_segment_00497-00512.npy",
+    "folder": "04_031",
+    "label": 0
+  },
+  "04_031_04_031_segment_00865-00880.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_031/04_031_segment_00865-00880.npy",
+    "folder": "04_031",
+    "label": 0
+  },
+  "04_031_04_031_segment_00625-00640.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_031/04_031_segment_00625-00640.npy",
+    "folder": "04_031",
+    "label": 0
+  },
+  "04_031_04_031_segment_00993-01008.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_031/04_031_segment_00993-01008.npy",
+    "folder": "04_031",
+    "label": 0
+  },
+  "04_031_04_031_segment_01361-01376.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_031/04_031_segment_01361-01376.npy",
+    "folder": "04_031",
+    "label": 0
+  },
+  "04_031_04_031_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_031/04_031_segment_01105-01120.npy",
+    "folder": "04_031",
+    "label": 0
+  },
+  "04_031_04_031_segment_00129-00144.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_031/04_031_segment_00129-00144.npy",
+    "folder": "04_031",
+    "label": 0
+  },
+  "04_031_04_031_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_031/04_031_segment_00737-00752.npy",
+    "folder": "04_031",
+    "label": 0
+  },
+  "04_031_04_031_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_031/04_031_segment_00001-00016.npy",
+    "folder": "04_031",
+    "label": 0
+  },
+  "04_031_04_031_segment_00257-00272.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_031/04_031_segment_00257-00272.npy",
+    "folder": "04_031",
+    "label": 0
+  },
+  "04_031_04_031_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_031/04_031_segment_00369-00384.npy",
+    "folder": "04_031",
+    "label": 0
+  },
+  "05_015_05_015_segment_00113-00128.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_015/05_015_segment_00113-00128.npy",
+    "folder": "05_015",
+    "label": 0
+  },
+  "01_017_01_017_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_017/01_017_segment_00001-00016.npy",
+    "folder": "01_017",
+    "label": 0
+  },
+  "01_017_01_017_segment_00865-00880.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_017/01_017_segment_00865-00880.npy",
+    "folder": "01_017",
+    "label": 0
+  },
+  "01_017_01_017_segment_00433-00448.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_017/01_017_segment_00433-00448.npy",
+    "folder": "01_017",
+    "label": 0
+  },
+  "01_017_01_017_segment_01169-01184.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_017/01_017_segment_01169-01184.npy",
+    "folder": "01_017",
+    "label": 0
+  },
+  "01_017_01_017_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_017/01_017_segment_00737-00752.npy",
+    "folder": "01_017",
+    "label": 0
+  },
+  "01_017_01_017_segment_00129-00144.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_017/01_017_segment_00129-00144.npy",
+    "folder": "01_017",
+    "label": 0
+  },
+  "01_017_01_017_segment_01473-01488.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_017/01_017_segment_01473-01488.npy",
+    "folder": "01_017",
+    "label": 0
+  },
+  "01_017_01_017_segment_00065-00080.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_017/01_017_segment_00065-00080.npy",
+    "folder": "01_017",
+    "label": 0
+  },
+  "01_017_01_017_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_017/01_017_segment_00369-00384.npy",
+    "folder": "01_017",
+    "label": 0
+  },
+  "01_017_01_017_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_017/01_017_segment_01105-01120.npy",
+    "folder": "01_017",
+    "label": 0
+  },
+  "01_017_01_017_segment_00497-00512.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_017/01_017_segment_00497-00512.npy",
+    "folder": "01_017",
+    "label": 0
+  },
+  "01_017_01_017_segment_01233-01248.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_017/01_017_segment_01233-01248.npy",
+    "folder": "01_017",
+    "label": 0
+  },
+  "01_017_01_017_segment_00801-00816.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_017/01_017_segment_00801-00816.npy",
+    "folder": "01_017",
+    "label": 0
+  },
+  "04_026_04_026_segment_00049-00064.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_026/04_026_segment_00049-00064.npy",
+    "folder": "04_026",
+    "label": 0
+  },
+  "04_026_04_026_segment_00193-00208.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_026/04_026_segment_00193-00208.npy",
+    "folder": "04_026",
+    "label": 0
+  },
+  "04_043_04_043_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_043/04_043_segment_00001-00016.npy",
+    "folder": "04_043",
+    "label": 0
+  },
+  "04_043_04_043_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_043/04_043_segment_00369-00384.npy",
+    "folder": "04_043",
+    "label": 0
+  },
+  "04_043_04_043_segment_00481-00496.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_043/04_043_segment_00481-00496.npy",
+    "folder": "04_043",
+    "label": 0
+  },
+  "04_043_04_043_segment_00593-00608.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_043/04_043_segment_00593-00608.npy",
+    "folder": "04_043",
+    "label": 0
+  },
+  "04_043_04_043_segment_00225-00240.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_043/04_043_segment_00225-00240.npy",
+    "folder": "04_043",
+    "label": 0
+  },
+  "04_043_04_043_segment_00113-00128.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_043/04_043_segment_00113-00128.npy",
+    "folder": "04_043",
+    "label": 0
+  },
+  "02_023_02_023_segment_00017-00032.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_023/02_023_segment_00017-00032.npy",
+    "folder": "02_023",
+    "label": 0
+  },
+  "04_028_04_028_segment_00881-00896.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_028/04_028_segment_00881-00896.npy",
+    "folder": "04_028",
+    "label": 0
+  },
+  "04_028_04_028_segment_00145-00160.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_028/04_028_segment_00145-00160.npy",
+    "folder": "04_028",
+    "label": 0
+  },
+  "04_028_04_028_segment_00513-00528.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_028/04_028_segment_00513-00528.npy",
+    "folder": "04_028",
+    "label": 0
+  },
+  "04_028_04_028_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_028/04_028_segment_00369-00384.npy",
+    "folder": "04_028",
+    "label": 0
+  },
+  "04_028_04_028_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_028/04_028_segment_00737-00752.npy",
+    "folder": "04_028",
+    "label": 0
+  },
+  "04_028_04_028_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_028/04_028_segment_00001-00016.npy",
+    "folder": "04_028",
+    "label": 0
+  },
+  "04_028_04_028_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_028/04_028_segment_01105-01120.npy",
+    "folder": "04_028",
+    "label": 0
+  },
+  "04_028_04_028_segment_00657-00672.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_028/04_028_segment_00657-00672.npy",
+    "folder": "04_028",
+    "label": 0
+  },
+  "04_028_04_028_segment_01249-01264.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_028/04_028_segment_01249-01264.npy",
+    "folder": "04_028",
+    "label": 0
+  },
+  "04_028_04_028_segment_00289-00304.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_028/04_028_segment_00289-00304.npy",
+    "folder": "04_028",
+    "label": 0
+  },
+  "04_028_04_028_segment_01025-01040.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_028/04_028_segment_01025-01040.npy",
+    "folder": "04_028",
+    "label": 0
+  },
+  "05_004_05_004_segment_01873-01888.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_004/05_004_segment_01873-01888.npy",
+    "folder": "05_004",
+    "label": 0
+  },
+  "05_004_05_004_segment_00033-00048.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_004/05_004_segment_00033-00048.npy",
+    "folder": "05_004",
+    "label": 0
+  },
+  "05_004_05_004_segment_01361-01376.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_004/05_004_segment_01361-01376.npy",
+    "folder": "05_004",
+    "label": 0
+  },
+  "05_004_05_004_segment_00993-01008.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_004/05_004_segment_00993-01008.npy",
+    "folder": "05_004",
+    "label": 0
+  },
+  "05_004_05_004_segment_00769-00784.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_004/05_004_segment_00769-00784.npy",
+    "folder": "05_004",
+    "label": 0
+  },
+  "05_004_05_004_segment_01137-01152.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_004/05_004_segment_01137-01152.npy",
+    "folder": "05_004",
+    "label": 0
+  },
+  "05_004_05_004_segment_00401-00416.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_004/05_004_segment_00401-00416.npy",
+    "folder": "05_004",
+    "label": 0
+  },
+  "05_004_05_004_segment_01729-01744.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_004/05_004_segment_01729-01744.npy",
+    "folder": "05_004",
+    "label": 0
+  },
+  "05_004_05_004_segment_00625-00640.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_004/05_004_segment_00625-00640.npy",
+    "folder": "05_004",
+    "label": 0
+  },
+  "05_004_05_004_segment_00257-00272.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_004/05_004_segment_00257-00272.npy",
+    "folder": "05_004",
+    "label": 0
+  },
+  "05_004_05_004_segment_01505-01520.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_004/05_004_segment_01505-01520.npy",
+    "folder": "05_004",
+    "label": 0
+  },
+  "04_047_04_047_segment_00993-01008.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_047/04_047_segment_00993-01008.npy",
+    "folder": "04_047",
+    "label": 0
+  },
+  "04_047_04_047_segment_00625-00640.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_047/04_047_segment_00625-00640.npy",
+    "folder": "04_047",
+    "label": 0
+  },
+  "04_047_04_047_segment_00753-00768.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_047/04_047_segment_00753-00768.npy",
+    "folder": "04_047",
+    "label": 0
+  },
+  "04_047_04_047_segment_00257-00272.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_047/04_047_segment_00257-00272.npy",
+    "folder": "04_047",
+    "label": 0
+  },
+  "04_047_04_047_segment_01121-01136.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_047/04_047_segment_01121-01136.npy",
+    "folder": "04_047",
+    "label": 0
+  },
+  "04_047_04_047_segment_01489-01504.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_047/04_047_segment_01489-01504.npy",
+    "folder": "04_047",
+    "label": 0
+  },
+  "04_047_04_047_segment_00017-00032.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_047/04_047_segment_00017-00032.npy",
+    "folder": "04_047",
+    "label": 0
+  },
+  "04_047_04_047_segment_01361-01376.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_047/04_047_segment_01361-01376.npy",
+    "folder": "04_047",
+    "label": 0
+  },
+  "04_047_04_047_segment_00385-00400.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_047/04_047_segment_00385-00400.npy",
+    "folder": "04_047",
+    "label": 0
+  },
+  "01_008_01_008_segment_00129-00144.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_008/01_008_segment_00129-00144.npy",
+    "folder": "01_008",
+    "label": 0
+  },
+  "01_008_01_008_segment_00177-00192.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_008/01_008_segment_00177-00192.npy",
+    "folder": "01_008",
+    "label": 0
+  },
+  "01_008_01_008_segment_00225-00240.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_008/01_008_segment_00225-00240.npy",
+    "folder": "01_008",
+    "label": 0
+  },
+  "01_008_01_008_segment_00033-00048.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_008/01_008_segment_00033-00048.npy",
+    "folder": "01_008",
+    "label": 0
+  },
+  "01_008_01_008_segment_00081-00096.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_008/01_008_segment_00081-00096.npy",
+    "folder": "01_008",
+    "label": 0
+  },
+  "04_071_04_071_segment_00193-00208.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_071/04_071_segment_00193-00208.npy",
+    "folder": "04_071",
+    "label": 0
+  },
+  "04_071_04_071_segment_00065-00080.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_071/04_071_segment_00065-00080.npy",
+    "folder": "04_071",
+    "label": 0
+  },
+  "04_068_04_068_segment_00049-00064.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_068/04_068_segment_00049-00064.npy",
+    "folder": "04_068",
+    "label": 0
+  },
+  "04_068_04_068_segment_00961-00976.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_068/04_068_segment_00961-00976.npy",
+    "folder": "04_068",
+    "label": 0
+  },
+  "04_068_04_068_segment_00785-00800.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_068/04_068_segment_00785-00800.npy",
+    "folder": "04_068",
+    "label": 0
+  },
+  "04_068_04_068_segment_00417-00432.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_068/04_068_segment_00417-00432.npy",
+    "folder": "04_068",
+    "label": 0
+  },
+  "04_068_04_068_segment_01153-01168.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_068/04_068_segment_01153-01168.npy",
+    "folder": "04_068",
+    "label": 0
+  },
+  "04_068_04_068_segment_00593-00608.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_068/04_068_segment_00593-00608.npy",
+    "folder": "04_068",
+    "label": 0
+  },
+  "04_068_04_068_segment_01329-01344.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_068/04_068_segment_01329-01344.npy",
+    "folder": "04_068",
+    "label": 0
+  },
+  "04_068_04_068_segment_00225-00240.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_068/04_068_segment_00225-00240.npy",
+    "folder": "04_068",
+    "label": 0
+  },
+  "05_003_05_003_segment_00961-00976.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_003/05_003_segment_00961-00976.npy",
+    "folder": "05_003",
+    "label": 0
+  },
+  "05_003_05_003_segment_00385-00400.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_003/05_003_segment_00385-00400.npy",
+    "folder": "05_003",
+    "label": 0
+  },
+  "05_003_05_003_segment_01697-01712.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_003/05_003_segment_01697-01712.npy",
+    "folder": "05_003",
+    "label": 0
+  },
+  "05_003_05_003_segment_01857-01872.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_003/05_003_segment_01857-01872.npy",
+    "folder": "05_003",
+    "label": 0
+  },
+  "05_003_05_003_segment_01489-01504.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_003/05_003_segment_01489-01504.npy",
+    "folder": "05_003",
+    "label": 0
+  },
+  "05_003_05_003_segment_01121-01136.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_003/05_003_segment_01121-01136.npy",
+    "folder": "05_003",
+    "label": 0
+  },
+  "05_003_05_003_segment_01329-01344.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_003/05_003_segment_01329-01344.npy",
+    "folder": "05_003",
+    "label": 0
+  },
+  "05_003_05_003_segment_00753-00768.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_003/05_003_segment_00753-00768.npy",
+    "folder": "05_003",
+    "label": 0
+  },
+  "05_003_05_003_segment_00593-00608.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_003/05_003_segment_00593-00608.npy",
+    "folder": "05_003",
+    "label": 0
+  },
+  "05_003_05_003_segment_00017-00032.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_003/05_003_segment_00017-00032.npy",
+    "folder": "05_003",
+    "label": 0
+  },
+  "05_003_05_003_segment_00225-00240.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_003/05_003_segment_00225-00240.npy",
+    "folder": "05_003",
+    "label": 0
+  },
+  "05_016_05_016_segment_00545-00560.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_016/05_016_segment_00545-00560.npy",
+    "folder": "05_016",
+    "label": 0
+  },
+  "05_016_05_016_segment_00913-00928.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_016/05_016_segment_00913-00928.npy",
+    "folder": "05_016",
+    "label": 0
+  },
+  "05_016_05_016_segment_00033-00048.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_016/05_016_segment_00033-00048.npy",
+    "folder": "05_016",
+    "label": 0
+  },
+  "05_016_05_016_segment_00177-00192.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_016/05_016_segment_00177-00192.npy",
+    "folder": "05_016",
+    "label": 0
+  },
+  "05_016_05_016_segment_00769-00784.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_016/05_016_segment_00769-00784.npy",
+    "folder": "05_016",
+    "label": 0
+  },
+  "05_016_05_016_segment_00401-00416.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_016/05_016_segment_00401-00416.npy",
+    "folder": "05_016",
+    "label": 0
+  },
+  "04_040_04_040_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_040/04_040_segment_00001-00016.npy",
+    "folder": "04_040",
+    "label": 0
+  },
+  "04_040_04_040_segment_00289-00304.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_040/04_040_segment_00289-00304.npy",
+    "folder": "04_040",
+    "label": 0
+  },
+  "04_040_04_040_segment_00129-00144.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_040/04_040_segment_00129-00144.npy",
+    "folder": "04_040",
+    "label": 0
+  },
+  "04_069_04_069_segment_00033-00048.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_069/04_069_segment_00033-00048.npy",
+    "folder": "04_069",
+    "label": 0
+  },
+  "04_048_04_048_segment_01297-01312.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_048/04_048_segment_01297-01312.npy",
+    "folder": "04_048",
+    "label": 0
+  },
+  "04_048_04_048_segment_00929-00944.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_048/04_048_segment_00929-00944.npy",
+    "folder": "04_048",
+    "label": 0
+  },
+  "04_048_04_048_segment_00433-00448.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_048/04_048_segment_00433-00448.npy",
+    "folder": "04_048",
+    "label": 0
+  },
+  "04_048_04_048_segment_01169-01184.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_048/04_048_segment_01169-01184.npy",
+    "folder": "04_048",
+    "label": 0
+  },
+  "04_048_04_048_segment_00065-00080.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_048/04_048_segment_00065-00080.npy",
+    "folder": "04_048",
+    "label": 0
+  },
+  "04_048_04_048_segment_00801-00816.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_048/04_048_segment_00801-00816.npy",
+    "folder": "04_048",
+    "label": 0
+  },
+  "04_048_04_048_segment_00561-00576.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_048/04_048_segment_00561-00576.npy",
+    "folder": "04_048",
+    "label": 0
+  },
+  "04_048_04_048_segment_00193-00208.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_048/04_048_segment_00193-00208.npy",
+    "folder": "04_048",
+    "label": 0
+  },
+  "04_002_04_002_segment_00881-00896.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_002/04_002_segment_00881-00896.npy",
+    "folder": "04_002",
+    "label": 0
+  },
+  "04_002_04_002_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_002/04_002_segment_01105-01120.npy",
+    "folder": "04_002",
+    "label": 0
+  },
+  "04_002_04_002_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_002/04_002_segment_00369-00384.npy",
+    "folder": "04_002",
+    "label": 0
+  },
+  "04_002_04_002_segment_00145-00160.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_002/04_002_segment_00145-00160.npy",
+    "folder": "04_002",
+    "label": 0
+  },
+  "04_002_04_002_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_002/04_002_segment_00001-00016.npy",
+    "folder": "04_002",
+    "label": 0
+  },
+  "04_002_04_002_segment_00257-00272.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_002/04_002_segment_00257-00272.npy",
+    "folder": "04_002",
+    "label": 0
+  },
+  "04_002_04_002_segment_00513-00528.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_002/04_002_segment_00513-00528.npy",
+    "folder": "04_002",
+    "label": 0
+  },
+  "04_002_04_002_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_002/04_002_segment_00737-00752.npy",
+    "folder": "04_002",
+    "label": 0
+  },
+  "04_002_04_002_segment_01249-01264.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_002/04_002_segment_01249-01264.npy",
+    "folder": "04_002",
+    "label": 0
+  },
+  "04_002_04_002_segment_00993-01008.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_002/04_002_segment_00993-01008.npy",
+    "folder": "04_002",
+    "label": 0
+  },
+  "04_002_04_002_segment_00625-00640.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_002/04_002_segment_00625-00640.npy",
+    "folder": "04_002",
+    "label": 0
+  },
+  "02_025_02_025_segment_00321-00336.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_025/02_025_segment_00321-00336.npy",
+    "folder": "02_025",
+    "label": 0
+  },
+  "02_025_02_025_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_025/02_025_segment_00001-00016.npy",
+    "folder": "02_025",
+    "label": 0
+  },
+  "02_025_02_025_segment_00161-00176.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_025/02_025_segment_00161-00176.npy",
+    "folder": "02_025",
+    "label": 0
+  },
+  "04_012_04_012_segment_00358-00373.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_012/04_012_segment_00358-00373.npy",
+    "folder": "04_012",
+    "label": 0
+  },
+  "04_012_04_012_segment_00070-00085.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_012/04_012_segment_00070-00085.npy",
+    "folder": "04_012",
+    "label": 0
+  },
+  "04_012_04_012_segment_00614-00629.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_012/04_012_segment_00614-00629.npy",
+    "folder": "04_012",
+    "label": 0
+  },
+  "04_012_04_012_segment_00246-00261.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_012/04_012_segment_00246-00261.npy",
+    "folder": "04_012",
+    "label": 0
+  },
+  "04_012_04_012_segment_00438-00453.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_012/04_012_segment_00438-00453.npy",
+    "folder": "04_012",
+    "label": 0
+  },
+  "02_014_02_014_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_014/02_014_segment_00001-00016.npy",
+    "folder": "02_014",
+    "label": 0
+  },
+  "02_014_02_014_segment_00081-00096.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_014/02_014_segment_00081-00096.npy",
+    "folder": "02_014",
+    "label": 0
+  },
+  "02_014_02_014_segment_00209-00224.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_014/02_014_segment_00209-00224.npy",
+    "folder": "02_014",
+    "label": 0
+  },
+  "04_033_04_033_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_033/04_033_segment_00001-00016.npy",
+    "folder": "04_033",
+    "label": 0
+  },
+  "04_033_04_033_segment_00129-00144.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_033/04_033_segment_00129-00144.npy",
+    "folder": "04_033",
+    "label": 0
+  },
+  "04_033_04_033_segment_00273-00288.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_033/04_033_segment_00273-00288.npy",
+    "folder": "04_033",
+    "label": 0
+  },
+  "04_033_04_033_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_033/04_033_segment_00369-00384.npy",
+    "folder": "04_033",
+    "label": 0
+  },
+  "02_018_02_018_segment_00129-00144.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_018/02_018_segment_00129-00144.npy",
+    "folder": "02_018",
+    "label": 0
+  },
+  "02_018_02_018_segment_00273-00288.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_018/02_018_segment_00273-00288.npy",
+    "folder": "02_018",
+    "label": 0
+  },
+  "02_018_02_018_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_018/02_018_segment_00369-00384.npy",
+    "folder": "02_018",
+    "label": 0
+  },
+  "02_018_02_018_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_018/02_018_segment_00001-00016.npy",
+    "folder": "02_018",
+    "label": 0
+  },
+  "01_020_01_020_segment_01425-01440.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_01425-01440.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_01233-01248.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_01233-01248.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_01793-01808.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_01793-01808.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_00689-00704.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_00689-00704.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_00865-00880.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_00865-00880.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_01105-01120.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_01473-01488.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_01473-01488.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_00369-00384.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_00497-00512.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_00497-00512.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_00321-00336.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_00321-00336.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_01841-01856.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_01841-01856.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_01601-01616.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_01601-01616.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_02161-02176.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_02161-02176.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_01969-01984.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_01969-01984.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_00001-00016.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_02209-02224.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_02209-02224.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_01057-01072.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_01057-01072.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_00737-00752.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_02337-02352.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_02337-02352.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "01_020_01_020_segment_00129-00144.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_020/01_020_segment_00129-00144.npy",
+    "folder": "01_020",
+    "label": 0
+  },
+  "04_029_04_029_segment_00865-00880.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_029/04_029_segment_00865-00880.npy",
+    "folder": "04_029",
+    "label": 0
+  },
+  "04_029_04_029_segment_00641-00656.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_029/04_029_segment_00641-00656.npy",
+    "folder": "04_029",
+    "label": 0
+  },
+  "04_029_04_029_segment_00273-00288.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_029/04_029_segment_00273-00288.npy",
+    "folder": "04_029",
+    "label": 0
+  },
+  "04_029_04_029_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_029/04_029_segment_00001-00016.npy",
+    "folder": "04_029",
+    "label": 0
+  },
+  "04_029_04_029_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_029/04_029_segment_00369-00384.npy",
+    "folder": "04_029",
+    "label": 0
+  },
+  "04_029_04_029_segment_00497-00512.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_029/04_029_segment_00497-00512.npy",
+    "folder": "04_029",
+    "label": 0
+  },
+  "04_029_04_029_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_029/04_029_segment_01105-01120.npy",
+    "folder": "04_029",
+    "label": 0
+  },
+  "04_029_04_029_segment_01009-01024.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_029/04_029_segment_01009-01024.npy",
+    "folder": "04_029",
+    "label": 0
+  },
+  "04_029_04_029_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_029/04_029_segment_00737-00752.npy",
+    "folder": "04_029",
+    "label": 0
+  },
+  "04_006_04_006_segment_00161-00176.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_006/04_006_segment_00161-00176.npy",
+    "folder": "04_006",
+    "label": 0
+  },
+  "04_006_04_006_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_006/04_006_segment_00001-00016.npy",
+    "folder": "04_006",
+    "label": 0
+  },
+  "04_006_04_006_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_006/04_006_segment_00369-00384.npy",
+    "folder": "04_006",
+    "label": 0
+  },
+  "04_006_04_006_segment_00289-00304.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_006/04_006_segment_00289-00304.npy",
+    "folder": "04_006",
+    "label": 0
+  },
+  "04_006_04_006_segment_00657-00672.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_006/04_006_segment_00657-00672.npy",
+    "folder": "04_006",
+    "label": 0
+  },
+  "04_006_04_006_segment_00529-00544.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_006/04_006_segment_00529-00544.npy",
+    "folder": "04_006",
+    "label": 0
+  },
+  "04_050_04_050_segment_00065-00080.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_050/04_050_segment_00065-00080.npy",
+    "folder": "04_050",
+    "label": 0
+  },
+  "04_050_04_050_segment_00801-00816.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_050/04_050_segment_00801-00816.npy",
+    "folder": "04_050",
+    "label": 0
+  },
+  "04_050_04_050_segment_00945-00960.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_050/04_050_segment_00945-00960.npy",
+    "folder": "04_050",
+    "label": 0
+  },
+  "04_050_04_050_segment_01025-01040.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_050/04_050_segment_01025-01040.npy",
+    "folder": "04_050",
+    "label": 0
+  },
+  "04_050_04_050_segment_00433-00448.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_050/04_050_segment_00433-00448.npy",
+    "folder": "04_050",
+    "label": 0
+  },
+  "04_050_04_050_segment_00657-00672.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_050/04_050_segment_00657-00672.npy",
+    "folder": "04_050",
+    "label": 0
+  },
+  "04_050_04_050_segment_00289-00304.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_050/04_050_segment_00289-00304.npy",
+    "folder": "04_050",
+    "label": 0
+  },
+  "04_050_04_050_segment_00577-00592.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_050/04_050_segment_00577-00592.npy",
+    "folder": "04_050",
+    "label": 0
+  },
+  "04_050_04_050_segment_00209-00224.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_050/04_050_segment_00209-00224.npy",
+    "folder": "04_050",
+    "label": 0
+  },
+  "01_003_01_003_segment_00177-00192.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_003/01_003_segment_00177-00192.npy",
+    "folder": "01_003",
+    "label": 0
+  },
+  "01_003_01_003_segment_00081-00096.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_003/01_003_segment_00081-00096.npy",
+    "folder": "01_003",
+    "label": 0
+  },
+  "01_003_01_003_segment_00321-00336.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_003/01_003_segment_00321-00336.npy",
+    "folder": "01_003",
+    "label": 0
+  },
+  "01_003_01_003_segment_00273-00288.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_003/01_003_segment_00273-00288.npy",
+    "folder": "01_003",
+    "label": 0
+  },
+  "01_003_01_003_segment_00033-00048.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_003/01_003_segment_00033-00048.npy",
+    "folder": "01_003",
+    "label": 0
+  },
+  "01_003_01_003_segment_00129-00144.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_003/01_003_segment_00129-00144.npy",
+    "folder": "01_003",
+    "label": 0
+  },
+  "01_003_01_003_segment_00225-00240.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_003/01_003_segment_00225-00240.npy",
+    "folder": "01_003",
+    "label": 0
+  },
+  "04_049_04_049_segment_00049-00064.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_049/04_049_segment_00049-00064.npy",
+    "folder": "04_049",
+    "label": 0
+  },
+  "04_049_04_049_segment_00961-00976.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_049/04_049_segment_00961-00976.npy",
+    "folder": "04_049",
+    "label": 0
+  },
+  "04_049_04_049_segment_00225-00240.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_049/04_049_segment_00225-00240.npy",
+    "folder": "04_049",
+    "label": 0
+  },
+  "04_049_04_049_segment_00785-00800.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_049/04_049_segment_00785-00800.npy",
+    "folder": "04_049",
+    "label": 0
+  },
+  "04_049_04_049_segment_00593-00608.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_049/04_049_segment_00593-00608.npy",
+    "folder": "04_049",
+    "label": 0
+  },
+  "04_049_04_049_segment_01153-01168.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_049/04_049_segment_01153-01168.npy",
+    "folder": "04_049",
+    "label": 0
+  },
+  "04_049_04_049_segment_01329-01344.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_049/04_049_segment_01329-01344.npy",
+    "folder": "04_049",
+    "label": 0
+  },
+  "04_049_04_049_segment_00417-00432.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_049/04_049_segment_00417-00432.npy",
+    "folder": "04_049",
+    "label": 0
+  },
+  "02_009_02_009_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_009/02_009_segment_00737-00752.npy",
+    "folder": "02_009",
+    "label": 0
+  },
+  "02_009_02_009_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_009/02_009_segment_01105-01120.npy",
+    "folder": "02_009",
+    "label": 0
+  },
+  "02_009_02_009_segment_01473-01488.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_009/02_009_segment_01473-01488.npy",
+    "folder": "02_009",
+    "label": 0
+  },
+  "02_009_02_009_segment_01841-01856.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_009/02_009_segment_01841-01856.npy",
+    "folder": "02_009",
+    "label": 0
+  },
+  "02_009_02_009_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_009/02_009_segment_00369-00384.npy",
+    "folder": "02_009",
+    "label": 0
+  },
+  "02_009_02_009_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_009/02_009_segment_00001-00016.npy",
+    "folder": "02_009",
+    "label": 0
+  },
+  "04_038_04_038_segment_00225-00240.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_038/04_038_segment_00225-00240.npy",
+    "folder": "04_038",
+    "label": 0
+  },
+  "04_038_04_038_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_038/04_038_segment_00369-00384.npy",
+    "folder": "04_038",
+    "label": 0
+  },
+  "04_038_04_038_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_038/04_038_segment_00001-00016.npy",
+    "folder": "04_038",
+    "label": 0
+  },
+  "04_038_04_038_segment_00129-00144.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_038/04_038_segment_00129-00144.npy",
+    "folder": "04_038",
+    "label": 0
+  },
+  "04_005_04_005_segment_00257-00272.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_005/04_005_segment_00257-00272.npy",
+    "folder": "04_005",
+    "label": 0
+  },
+  "04_005_04_005_segment_00481-00496.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_005/04_005_segment_00481-00496.npy",
+    "folder": "04_005",
+    "label": 0
+  },
+  "04_005_04_005_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_005/04_005_segment_00369-00384.npy",
+    "folder": "04_005",
+    "label": 0
+  },
+  "04_005_04_005_segment_00113-00128.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_005/04_005_segment_00113-00128.npy",
+    "folder": "04_005",
+    "label": 0
+  },
+  "04_005_04_005_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_005/04_005_segment_00001-00016.npy",
+    "folder": "04_005",
+    "label": 0
+  },
+  "04_005_04_005_segment_00625-00640.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_005/04_005_segment_00625-00640.npy",
+    "folder": "04_005",
+    "label": 0
+  },
+  "04_023_04_023_segment_00049-00064.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_023/04_023_segment_00049-00064.npy",
+    "folder": "04_023",
+    "label": 0
+  },
+  "04_073_04_073_segment_00097-00112.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_073/04_073_segment_00097-00112.npy",
+    "folder": "04_073",
+    "label": 0
+  },
+  "01_025_01_025_segment_01841-01856.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_025/01_025_segment_01841-01856.npy",
+    "folder": "01_025",
+    "label": 0
+  },
+  "01_025_01_025_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_025/01_025_segment_01105-01120.npy",
+    "folder": "01_025",
+    "label": 0
+  },
+  "01_025_01_025_segment_01233-01248.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_025/01_025_segment_01233-01248.npy",
+    "folder": "01_025",
+    "label": 0
+  },
+  "01_025_01_025_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_025/01_025_segment_00369-00384.npy",
+    "folder": "01_025",
+    "label": 0
+  },
+  "01_025_01_025_segment_00865-00880.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_025/01_025_segment_00865-00880.npy",
+    "folder": "01_025",
+    "label": 0
+  },
+  "01_025_01_025_segment_01601-01616.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_025/01_025_segment_01601-01616.npy",
+    "folder": "01_025",
+    "label": 0
+  },
+  "01_025_01_025_segment_00497-00512.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_025/01_025_segment_00497-00512.npy",
+    "folder": "01_025",
+    "label": 0
+  },
+  "01_025_01_025_segment_01473-01488.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_025/01_025_segment_01473-01488.npy",
+    "folder": "01_025",
+    "label": 0
+  },
+  "01_025_01_025_segment_02209-02224.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_025/01_025_segment_02209-02224.npy",
+    "folder": "01_025",
+    "label": 0
+  },
+  "01_025_01_025_segment_01969-01984.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_025/01_025_segment_01969-01984.npy",
+    "folder": "01_025",
+    "label": 0
+  },
+  "01_025_01_025_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_025/01_025_segment_00737-00752.npy",
+    "folder": "01_025",
+    "label": 0
+  },
+  "01_025_01_025_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_025/01_025_segment_00001-00016.npy",
+    "folder": "01_025",
+    "label": 0
+  },
+  "01_025_01_025_segment_00129-00144.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_025/01_025_segment_00129-00144.npy",
+    "folder": "01_025",
+    "label": 0
+  },
+  "04_014_04_014_segment_00033-00048.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_014/04_014_segment_00033-00048.npy",
+    "folder": "04_014",
+    "label": 0
+  },
+  "04_013_04_013_segment_00257-00272.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_013/04_013_segment_00257-00272.npy",
+    "folder": "04_013",
+    "label": 0
+  },
+  "04_013_04_013_segment_00625-00640.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_013/04_013_segment_00625-00640.npy",
+    "folder": "04_013",
+    "label": 0
+  },
+  "04_013_04_013_segment_00113-00128.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_013/04_013_segment_00113-00128.npy",
+    "folder": "04_013",
+    "label": 0
+  },
+  "04_013_04_013_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_013/04_013_segment_00001-00016.npy",
+    "folder": "04_013",
+    "label": 0
+  },
+  "04_013_04_013_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_013/04_013_segment_00369-00384.npy",
+    "folder": "04_013",
+    "label": 0
+  },
+  "04_013_04_013_segment_00481-00496.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_013/04_013_segment_00481-00496.npy",
+    "folder": "04_013",
+    "label": 0
+  },
+  "05_006_05_006_segment_00177-00192.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_006/05_006_segment_00177-00192.npy",
+    "folder": "05_006",
+    "label": 0
+  },
+  "05_006_05_006_segment_00321-00336.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_006/05_006_segment_00321-00336.npy",
+    "folder": "05_006",
+    "label": 0
+  },
+  "04_032_04_032_segment_00257-00272.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_032/04_032_segment_00257-00272.npy",
+    "folder": "04_032",
+    "label": 0
+  },
+  "04_032_04_032_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_032/04_032_segment_00001-00016.npy",
+    "folder": "04_032",
+    "label": 0
+  },
+  "04_032_04_032_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_032/04_032_segment_00369-00384.npy",
+    "folder": "04_032",
+    "label": 0
+  },
+  "04_032_04_032_segment_00145-00160.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_032/04_032_segment_00145-00160.npy",
+    "folder": "04_032",
+    "label": 0
+  },
+  "04_020_04_020_segment_00593-00608.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_020/04_020_segment_00593-00608.npy",
+    "folder": "04_020",
+    "label": 0
+  },
+  "04_020_04_020_segment_00849-00864.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_020/04_020_segment_00849-00864.npy",
+    "folder": "04_020",
+    "label": 0
+  },
+  "04_020_04_020_segment_00961-00976.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_020/04_020_segment_00961-00976.npy",
+    "folder": "04_020",
+    "label": 0
+  },
+  "04_020_04_020_segment_00481-00496.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_020/04_020_segment_00481-00496.npy",
+    "folder": "04_020",
+    "label": 0
+  },
+  "04_020_04_020_segment_00113-00128.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_020/04_020_segment_00113-00128.npy",
+    "folder": "04_020",
+    "label": 0
+  },
+  "04_020_04_020_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_020/04_020_segment_00737-00752.npy",
+    "folder": "04_020",
+    "label": 0
+  },
+  "04_020_04_020_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_020/04_020_segment_00369-00384.npy",
+    "folder": "04_020",
+    "label": 0
+  },
+  "04_020_04_020_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_020/04_020_segment_00001-00016.npy",
+    "folder": "04_020",
+    "label": 0
+  },
+  "04_020_04_020_segment_00225-00240.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_020/04_020_segment_00225-00240.npy",
+    "folder": "04_020",
+    "label": 0
+  },
+  "02_019_02_019_segment_00033-00048.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_019/02_019_segment_00033-00048.npy",
+    "folder": "02_019",
+    "label": 0
+  },
+  "04_074_04_074_segment_00593-00608.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_074/04_074_segment_00593-00608.npy",
+    "folder": "04_074",
+    "label": 0
+  },
+  "04_074_04_074_segment_00225-00240.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_074/04_074_segment_00225-00240.npy",
+    "folder": "04_074",
+    "label": 0
+  },
+  "04_074_04_074_segment_00097-00112.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_074/04_074_segment_00097-00112.npy",
+    "folder": "04_074",
+    "label": 0
+  },
+  "04_074_04_074_segment_00833-00848.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_074/04_074_segment_00833-00848.npy",
+    "folder": "04_074",
+    "label": 0
+  },
+  "04_074_04_074_segment_00465-00480.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_074/04_074_segment_00465-00480.npy",
+    "folder": "04_074",
+    "label": 0
+  },
+  "04_074_04_074_segment_00689-00704.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_074/04_074_segment_00689-00704.npy",
+    "folder": "04_074",
+    "label": 0
+  },
+  "04_074_04_074_segment_00321-00336.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_074/04_074_segment_00321-00336.npy",
+    "folder": "04_074",
+    "label": 0
+  },
+  "04_001_04_001_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_001/04_001_segment_00001-00016.npy",
+    "folder": "04_001",
+    "label": 0
+  },
+  "04_001_04_001_segment_00641-00656.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_001/04_001_segment_00641-00656.npy",
+    "folder": "04_001",
+    "label": 0
+  },
+  "04_001_04_001_segment_00273-00288.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_001/04_001_segment_00273-00288.npy",
+    "folder": "04_001",
+    "label": 0
+  },
+  "04_001_04_001_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_001/04_001_segment_00737-00752.npy",
+    "folder": "04_001",
+    "label": 0
+  },
+  "04_001_04_001_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_001/04_001_segment_00369-00384.npy",
+    "folder": "04_001",
+    "label": 0
+  },
+  "04_001_04_001_segment_00881-00896.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_001/04_001_segment_00881-00896.npy",
+    "folder": "04_001",
+    "label": 0
+  },
+  "04_001_04_001_segment_00513-00528.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_001/04_001_segment_00513-00528.npy",
+    "folder": "04_001",
+    "label": 0
+  },
+  "04_001_04_001_segment_00145-00160.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_001/04_001_segment_00145-00160.npy",
+    "folder": "04_001",
+    "label": 0
+  },
+  "04_001_04_001_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_001/04_001_segment_01105-01120.npy",
+    "folder": "04_001",
+    "label": 0
+  },
+  "04_030_04_030_segment_00993-01008.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_030/04_030_segment_00993-01008.npy",
+    "folder": "04_030",
+    "label": 0
+  },
+  "04_030_04_030_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_030/04_030_segment_00737-00752.npy",
+    "folder": "04_030",
+    "label": 0
+  },
+  "04_030_04_030_segment_00497-00512.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_030/04_030_segment_00497-00512.npy",
+    "folder": "04_030",
+    "label": 0
+  },
+  "04_030_04_030_segment_00865-00880.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_030/04_030_segment_00865-00880.npy",
+    "folder": "04_030",
+    "label": 0
+  },
+  "04_030_04_030_segment_00129-00144.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_030/04_030_segment_00129-00144.npy",
+    "folder": "04_030",
+    "label": 0
+  },
+  "04_030_04_030_segment_00257-00272.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_030/04_030_segment_00257-00272.npy",
+    "folder": "04_030",
+    "label": 0
+  },
+  "04_030_04_030_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_030/04_030_segment_00369-00384.npy",
+    "folder": "04_030",
+    "label": 0
+  },
+  "04_030_04_030_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_030/04_030_segment_00001-00016.npy",
+    "folder": "04_030",
+    "label": 0
+  },
+  "04_030_04_030_segment_00625-00640.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_030/04_030_segment_00625-00640.npy",
+    "folder": "04_030",
+    "label": 0
+  },
+  "04_042_04_042_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_042/04_042_segment_00001-00016.npy",
+    "folder": "04_042",
+    "label": 0
+  },
+  "04_042_04_042_segment_00161-00176.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_042/04_042_segment_00161-00176.npy",
+    "folder": "04_042",
+    "label": 0
+  },
+  "04_042_04_042_segment_00273-00288.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_042/04_042_segment_00273-00288.npy",
+    "folder": "04_042",
+    "label": 0
+  },
+  "04_042_04_042_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_042/04_042_segment_00737-00752.npy",
+    "folder": "04_042",
+    "label": 0
+  },
+  "04_042_04_042_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_042/04_042_segment_00369-00384.npy",
+    "folder": "04_042",
+    "label": 0
+  },
+  "04_042_04_042_segment_01009-01024.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_042/04_042_segment_01009-01024.npy",
+    "folder": "04_042",
+    "label": 0
+  },
+  "04_042_04_042_segment_00641-00656.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_042/04_042_segment_00641-00656.npy",
+    "folder": "04_042",
+    "label": 0
+  },
+  "04_042_04_042_segment_00529-00544.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_042/04_042_segment_00529-00544.npy",
+    "folder": "04_042",
+    "label": 0
+  },
+  "04_042_04_042_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_042/04_042_segment_01105-01120.npy",
+    "folder": "04_042",
+    "label": 0
+  },
+  "04_042_04_042_segment_00897-00912.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_042/04_042_segment_00897-00912.npy",
+    "folder": "04_042",
+    "label": 0
+  },
+  "05_002_05_002_segment_00049-00064.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_002/05_002_segment_00049-00064.npy",
+    "folder": "05_002",
+    "label": 0
+  },
+  "05_002_05_002_segment_00417-00432.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_002/05_002_segment_00417-00432.npy",
+    "folder": "05_002",
+    "label": 0
+  },
+  "05_002_05_002_segment_00561-00576.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_002/05_002_segment_00561-00576.npy",
+    "folder": "05_002",
+    "label": 0
+  },
+  "05_002_05_002_segment_00193-00208.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_002/05_002_segment_00193-00208.npy",
+    "folder": "05_002",
+    "label": 0
+  },
+  "04_027_04_027_segment_00512-00527.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_027/04_027_segment_00512-00527.npy",
+    "folder": "04_027",
+    "label": 0
+  },
+  "04_027_04_027_segment_00656-00671.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_027/04_027_segment_00656-00671.npy",
+    "folder": "04_027",
+    "label": 0
+  },
+  "04_027_04_027_segment_00352-00367.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_027/04_027_segment_00352-00367.npy",
+    "folder": "04_027",
+    "label": 0
+  },
+  "04_027_04_027_segment_00880-00895.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_027/04_027_segment_00880-00895.npy",
+    "folder": "04_027",
+    "label": 0
+  },
+  "04_027_04_027_segment_00720-00735.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_027/04_027_segment_00720-00735.npy",
+    "folder": "04_027",
+    "label": 0
+  },
+  "01_002_01_002_segment_00673-00688.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_002/01_002_segment_00673-00688.npy",
+    "folder": "01_002",
+    "label": 0
+  },
+  "01_002_01_002_segment_00273-00288.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_002/01_002_segment_00273-00288.npy",
+    "folder": "01_002",
+    "label": 0
+  },
+  "01_002_01_002_segment_00433-00448.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_002/01_002_segment_00433-00448.npy",
+    "folder": "01_002",
+    "label": 0
+  },
+  "01_002_01_002_segment_00593-00608.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_002/01_002_segment_00593-00608.npy",
+    "folder": "01_002",
+    "label": 0
+  },
+  "01_002_01_002_segment_00513-00528.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_002/01_002_segment_00513-00528.npy",
+    "folder": "01_002",
+    "label": 0
+  },
+  "01_002_01_002_segment_00753-00768.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_002/01_002_segment_00753-00768.npy",
+    "folder": "01_002",
+    "label": 0
+  },
+  "01_002_01_002_segment_00833-00848.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_002/01_002_segment_00833-00848.npy",
+    "folder": "01_002",
+    "label": 0
+  },
+  "01_002_01_002_segment_00193-00208.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_002/01_002_segment_00193-00208.npy",
+    "folder": "01_002",
+    "label": 0
+  },
+  "01_002_01_002_segment_00113-00128.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_002/01_002_segment_00113-00128.npy",
+    "folder": "01_002",
+    "label": 0
+  },
+  "01_002_01_002_segment_00353-00368.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/01_002/01_002_segment_00353-00368.npy",
+    "folder": "01_002",
+    "label": 0
+  },
+  "04_061_04_061_segment_00049-00064.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_061/04_061_segment_00049-00064.npy",
+    "folder": "04_061",
+    "label": 0
+  },
+  "04_061_04_061_segment_00545-00560.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_061/04_061_segment_00545-00560.npy",
+    "folder": "04_061",
+    "label": 0
+  },
+  "04_061_04_061_segment_00177-00192.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_061/04_061_segment_00177-00192.npy",
+    "folder": "04_061",
+    "label": 0
+  },
+  "04_061_04_061_segment_00305-00320.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_061/04_061_segment_00305-00320.npy",
+    "folder": "04_061",
+    "label": 0
+  },
+  "04_061_04_061_segment_00673-00688.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_061/04_061_segment_00673-00688.npy",
+    "folder": "04_061",
+    "label": 0
+  },
+  "04_061_04_061_segment_00417-00432.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_061/04_061_segment_00417-00432.npy",
+    "folder": "04_061",
+    "label": 0
+  },
+  "04_065_04_065_segment_00049-00064.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_065/04_065_segment_00049-00064.npy",
+    "folder": "04_065",
+    "label": 0
+  },
+  "04_065_04_065_segment_00321-00336.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_065/04_065_segment_00321-00336.npy",
+    "folder": "04_065",
+    "label": 0
+  },
+  "04_065_04_065_segment_00417-00432.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_065/04_065_segment_00417-00432.npy",
+    "folder": "04_065",
+    "label": 0
+  },
+  "04_065_04_065_segment_00193-00208.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_065/04_065_segment_00193-00208.npy",
+    "folder": "04_065",
+    "label": 0
+  },
+  "05_008_05_008_segment_00081-00096.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_008/05_008_segment_00081-00096.npy",
+    "folder": "05_008",
+    "label": 0
+  },
+  "05_008_05_008_segment_00241-00256.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_008/05_008_segment_00241-00256.npy",
+    "folder": "05_008",
+    "label": 0
+  },
+  "05_008_05_008_segment_00817-00832.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_008/05_008_segment_00817-00832.npy",
+    "folder": "05_008",
+    "label": 0
+  },
+  "05_008_05_008_segment_00609-00624.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_008/05_008_segment_00609-00624.npy",
+    "folder": "05_008",
+    "label": 0
+  },
+  "05_008_05_008_segment_00449-00464.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_008/05_008_segment_00449-00464.npy",
+    "folder": "05_008",
+    "label": 0
+  },
+  "04_008_04_008_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_008/04_008_segment_00369-00384.npy",
+    "folder": "04_008",
+    "label": 0
+  },
+  "04_008_04_008_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_008/04_008_segment_00001-00016.npy",
+    "folder": "04_008",
+    "label": 0
+  },
+  "04_008_04_008_segment_00273-00288.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_008/04_008_segment_00273-00288.npy",
+    "folder": "04_008",
+    "label": 0
+  },
+  "04_008_04_008_segment_00129-00144.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_008/04_008_segment_00129-00144.npy",
+    "folder": "04_008",
+    "label": 0
+  },
+  "02_003_02_003_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_003/02_003_segment_00001-00016.npy",
+    "folder": "02_003",
+    "label": 0
+  },
+  "02_003_02_003_segment_00353-00368.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_003/02_003_segment_00353-00368.npy",
+    "folder": "02_003",
+    "label": 0
+  },
+  "02_003_02_003_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_003/02_003_segment_00369-00384.npy",
+    "folder": "02_003",
+    "label": 0
+  },
+  "05_021_05_021_segment_00033-00048.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_021/05_021_segment_00033-00048.npy",
+    "folder": "05_021",
+    "label": 0
+  },
+  "04_076_04_076_segment_00097-00112.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_076/04_076_segment_00097-00112.npy",
+    "folder": "04_076",
+    "label": 0
+  },
+  "04_075_04_075_segment_00065-00080.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_075/04_075_segment_00065-00080.npy",
+    "folder": "04_075",
+    "label": 0
+  },
+  "04_075_04_075_segment_00145-00160.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_075/04_075_segment_00145-00160.npy",
+    "folder": "04_075",
+    "label": 0
+  },
+  "02_010_02_010_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_010/02_010_segment_00001-00016.npy",
+    "folder": "02_010",
+    "label": 0
+  },
+  "02_010_02_010_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_010/02_010_segment_00737-00752.npy",
+    "folder": "02_010",
+    "label": 0
+  },
+  "02_010_02_010_segment_01025-01040.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_010/02_010_segment_01025-01040.npy",
+    "folder": "02_010",
+    "label": 0
+  },
+  "02_010_02_010_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_010/02_010_segment_00369-00384.npy",
+    "folder": "02_010",
+    "label": 0
+  },
+  "02_010_02_010_segment_01393-01408.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_010/02_010_segment_01393-01408.npy",
+    "folder": "02_010",
+    "label": 0
+  },
+  "02_010_02_010_segment_00289-00304.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_010/02_010_segment_00289-00304.npy",
+    "folder": "02_010",
+    "label": 0
+  },
+  "02_010_02_010_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_010/02_010_segment_01105-01120.npy",
+    "folder": "02_010",
+    "label": 0
+  },
+  "02_010_02_010_segment_00657-00672.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/02_010/02_010_segment_00657-00672.npy",
+    "folder": "02_010",
+    "label": 0
+  },
+  "05_018_05_018_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_018/05_018_segment_00369-00384.npy",
+    "folder": "05_018",
+    "label": 0
+  },
+  "05_018_05_018_segment_00577-00592.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_018/05_018_segment_00577-00592.npy",
+    "folder": "05_018",
+    "label": 0
+  },
+  "05_018_05_018_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_018/05_018_segment_00001-00016.npy",
+    "folder": "05_018",
+    "label": 0
+  },
+  "05_018_05_018_segment_00737-00752.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_018/05_018_segment_00737-00752.npy",
+    "folder": "05_018",
+    "label": 0
+  },
+  "05_018_05_018_segment_00945-00960.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_018/05_018_segment_00945-00960.npy",
+    "folder": "05_018",
+    "label": 0
+  },
+  "05_018_05_018_segment_00209-00224.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_018/05_018_segment_00209-00224.npy",
+    "folder": "05_018",
+    "label": 0
+  },
+  "05_018_05_018_segment_01105-01120.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/05_018/05_018_segment_01105-01120.npy",
+    "folder": "05_018",
+    "label": 0
+  },
+  "04_035_04_035_segment_00513-00528.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_035/04_035_segment_00513-00528.npy",
+    "folder": "04_035",
+    "label": 0
+  },
+  "04_035_04_035_segment_00001-00016.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_035/04_035_segment_00001-00016.npy",
+    "folder": "04_035",
+    "label": 0
+  },
+  "04_035_04_035_segment_00273-00288.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_035/04_035_segment_00273-00288.npy",
+    "folder": "04_035",
+    "label": 0
+  },
+  "04_035_04_035_segment_00369-00384.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_035/04_035_segment_00369-00384.npy",
+    "folder": "04_035",
+    "label": 0
+  },
+  "04_035_04_035_segment_00145-00160.npy": {
+    "path": "/home/ubuntu/zhaocheng/infrared_visible_video_dataset/generated_visio_npy/Test_ir/04_035/04_035_segment_00145-00160.npy",
+    "folder": "04_035",
+    "label": 0
+  }
+}
