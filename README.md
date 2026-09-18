@@ -7,7 +7,7 @@ Uncertainty-Guided Spatiotemporal Consistency Fusion Network for Infrared-Visibl
 | 🌐 Project Page | **LIVE!** | [Click Here for Visualizations](https://zhaocheng1.github.io/ELVID/) |
 | 📄 Paper | Under Review |Coming Soon |
  📊 Datasets | **Upon Acceptance** | See Dataset Release Status ↓ |
-| 💻 Code | Coming Soon | See Code and Model Release Status ↓ |
+| 💻 Code & Models | **Uploaded** | See Code and Model Release Status ↓ |
 
 ## 📊 Dataset Release Status
 ![Dataset Release](https://img.shields.io/badge/Dataset%20Release-Upon%20Acceptance-orange)
@@ -20,22 +20,22 @@ We guarantee that the complete dataset will be made publicly available immediate
 
 
 ## 🔑 Code and Model Release Status
-![Code Release](https://img.shields.io/badge/Code%20Release-Upon%20Acceptance-orange)
+![Code and Model Release](https://img.shields.io/badge/Code%20%26%20Models-Uploaded-brightgreen)
 
-We are committed to full reproducibility and open science.
+The source code and pretrained model checkpoint have been uploaded and are available in this repository.
 
-The source code, trained models, and detailed setup instructions are currently withheld to preserve the integrity of the academic peer-review process.
-
-We guarantee that the complete repository contents (including training scripts and pretrained checkpoints) will be made publicly available immediately upon manuscript acceptance.
+- **Source code:** Browse the training scripts and code folders in this repository.
+- **Pretrained model:** Download the checkpoint from [best_model](./best_model). The checkpoint is stored using Git LFS.
 
 ## 📑 Citation
 
 If you find our work useful for your research, please consider citing our paper:
 
 ```bibtex
-@article{Zhao2025SCFNet,
+@article{Zhao2026SCFNet,
   title   = {Uncertainty-Guided Spatiotemporal Consistency Fusion Network for Infrared--Visible Video Fusion under Extremely Low-Light Conditions},
   author  = {Zhao, Cheng and Song, Tianyun and Wu, Zhiliang and Wang, Tianfu and Gabbouj, Moncef and Yue, Guanghui and Lei, Baiying and Zhou, Wei},
-  journal = {Under Review},
-  year    = {2025}
+  journal = {TIP},
+  year    = {2026}
 }
+```
