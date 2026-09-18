@@ -5,7 +5,7 @@ Uncertainty-Guided Spatiotemporal Consistency Fusion Network for Infrared-Visibl
 | Resource | Status | Link |
 |--------|--------|------|
 | 🌐 Project Page | **LIVE!** | [Click Here for Visualizations](https://zhaocheng1.github.io/ELVID/) |
-| 📄 Paper | Under Review |Coming Soon |
+| 📄 Paper | Under Review | [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11644855) |
  📊 Datasets | **Upon Acceptance** | See Dataset Release Status ↓ |
 | 💻 Code & Models | **Uploaded** | See Code and Model Release Status ↓ |
 
